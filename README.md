@@ -1,4 +1,3 @@
 # hello-repo
-
-this is the discription
+hapy wonderful day
 
